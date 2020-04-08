@@ -90,4 +90,4 @@ PRODUCT_PACKAGES += \
     android.hardware.usb@1.0-service.basic
 
 # Inherit proprietary files
-$(call inherit-product-if-exists, vendor/xiaomi/whyred/whyred/whyred-vendor.mk)
+$(call inherit-product-if-exists, vendor/xiaomi/whyred/whyred-vendor.mk)
