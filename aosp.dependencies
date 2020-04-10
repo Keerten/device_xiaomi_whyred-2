@@ -1,17 +1,23 @@
-[
+
   {
-    "repository": "device_xiaomi_sdm660-common",
+    "repository": "Keertesh19/device_xiaomi_sdm660-common",
     "target_path": "device/xiaomi/sdm660-common",
-    "branch": "ten-whyred"
+    "branch": "ten-wip"
   },
   {
-    "repository": "vendor_xiaomi",
-    "target_path": "vendor/xiaomi",
+    "repository": "Keertesh19/vendor_xiaomi_whyred-common",
+    "target_path": "vendor/xiaomi/whyred",
     "branch": "ten"
   },
+  {
+    "repository": " Keertesh19/android_vendor_xiaomi_sdm660-common ",
+    "target_path": "vendor/xiaomi/sdm660-common",
+    "branch": "cr-8.0-eas"
+  },
+
     {
-    "repository" : "kernel_xiaomi_whyred",
-    "target_path": "kernel/xiaomi/whyred",
-    "branch": "ten"
+    "repository" : "xiaomi-sdm660-devs/android_kernel_xiaomi_sdm660",
+    "target_path": "kernel/xiaomi/sdm660",
+    "branch": "unified/lineage-17.1"
   }
 ]
