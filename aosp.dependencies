@@ -7,7 +7,7 @@
   },
   {
     "remote": "github",
-    "repository": "vendor_MiuiCamera",
+    "repository": "PixelExperience-Devices/vendor_MiuiCamera",
     "target_path": "vendor/MiuiCamera",
     "branch": "ten-whyred"
   },
