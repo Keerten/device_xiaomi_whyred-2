@@ -25,8 +25,8 @@
   },
   {
     "remote": "github",
-    "repository" : "xiaomi-sdm660-devs/android_kernel_xiaomi_sdm660",
+    "repository" : "theradcolor/android_kernel_xiaomi_sdm660",
     "target_path": "kernel/xiaomi/sdm660",
-    "branch": "unified/lineage-17.1"
+    "branch": "kernel-eas-newcam"
   }
 ]
