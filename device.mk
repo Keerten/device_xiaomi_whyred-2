@@ -99,9 +99,6 @@ PRODUCT_PACKAGES += \
 PRODUCT_COPY_FILES += \
     $(DEVICE_PATH)/configs/media/MIUI_DualCamera_watermark.png:$(TARGET_COPY_OUT_VENDOR)/etc/MIUI_DualCamera_watermark.png
 
-# USB
-PRODUCT_PACKAGES += \
-    android.hardware.usb@1.0-service.basic
 
 # ConsumerIR
 PRODUCT_PACKAGES += \
