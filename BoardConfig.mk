@@ -38,6 +38,9 @@ TARGET_HW_DISK_ENCRYPTION := true
 TARGET_KERNEL_SOURCE := kernel/xiaomi/sdm660
 TARGET_KERNEL_CONFIG := whyred_defconfig
 
+# DT2W
+TARGET_TAP_TO_WAKE_NODE := "/proc/tp_gesture"
+
 # Manifest
 DEVICE_MANIFEST_FILE += $(DEVICE_PATH)/configs/manifest.xml
 
